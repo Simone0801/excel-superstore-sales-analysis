@@ -171,5 +171,5 @@ excel-superstore-sales-analysis/
 ---
 
 ## Author & Contact
-* **Analyst:** Simone (Junior Data Analyst & Business Intelligence Specialist)
+* **Analyst:** Simone Angelo Vasilescu
 * **Repository:** [excel-superstore-sales-analysis](https://github.com/Simone0801/excel-superstore-sales-analysis.git)
